@@ -1,1 +1,1 @@
-include models/ade20k/color150.mat
+include models/ade20k/*
