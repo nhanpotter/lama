@@ -2,5 +2,5 @@ import setuptools
 
 setuptools.setup(
     name="saicinpainting",
-    packages=['saicinpainting'],
+    package_dir={'': 'saicinpainting'}
 )
